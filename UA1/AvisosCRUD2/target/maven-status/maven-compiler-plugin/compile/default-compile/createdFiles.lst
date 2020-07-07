@@ -1,0 +1,7 @@
+Dao\AvisoBD.class
+com\mycompany\AvisosCRUD\resources\JavaEE8Resource.class
+Dao\Aviso.class
+Dao\AutorBD.class
+Dao\Autor.class
+config\Conexion.class
+com\mycompany\AvisosCRUD\JAXRSConfiguration.class
